@@ -13,18 +13,6 @@ AI-powered mental wellness platform for emotional support, mood tracking, intell
 
 ---
 
-## 📑 Table of Contents
-
-- [Project Overview](#-project-overview)
-- [Objectives](#-objectives-of-the-project)
-- [Features](#-features)
-- [Project Workflow](#-how-the-project-works)
-- [Database Structure](#-database-structure)
-- [Technologies Used](#-technologies-used)
-- [Future Improvements](#-future-improvements)
-
----
-
 # 📌 Project Overview
 
 MindCare 360 is an AI-powered mental wellness web application designed to provide emotional support, self-awareness tools, and lifestyle insights using Artificial Intelligence.
