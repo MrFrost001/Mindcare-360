@@ -212,33 +212,6 @@ Users receive:
 
 ---
 
-# 💾 Database Structure
-
-## Messages Table
-
-Stores chatbot conversations.
-
-| Field | Type |
-|---------|------|
-| id | Integer |
-| role | Text |
-| content | Text |
-| timestamp | DateTime |
-
----
-
-## Journal Entries Table
-
-Stores journal data and analysis.
-
-| Field | Type |
-|---------|------|
-| id | Integer |
-| content | Text |
-| analysis | Text |
-| timestamp | DateTime |
-
----
 
 # 🛠 Technologies Used
 
@@ -254,29 +227,4 @@ Stores journal data and analysis.
 
 ---
 
-# 🔮 Future Improvements
 
-Planned enhancements:
-
-- User authentication system
-- Real-time emotion detection
-- Voice-based chatbot interaction
-- Mood visualization dashboards
-- Cloud deployment
-- Mobile application support
-
----
-
-# 👨‍💻 Author
-
-**Utkarsh Maurya**  
-AI & Machine Learning Engineer | Python Developer
-
-📧 Email: maurya124421@gmail.com  
-📍 Varanasi, Uttar Pradesh, India  
-
----
-
-<p align="center">
-⭐ If you found this project useful, consider giving it a star.
-</p>
