@@ -197,7 +197,6 @@ Users receive:
 - Emotional insights
 - Mood statistics
 - Health recommendations
-
 ---
 
 
